@@ -21,14 +21,14 @@
         ],
         "INTERACTIVE_NORMAL": [
           
-          "#158491"
+          "6b0019"
         ],
         "INTERACTIVE_HOVER": [
           
           "#c5c118"
           ],
           "INTERACTIVE_ACTIVE": [
-            "#d81418"
+            "#4f0014"
         ],
         "INTERACTIVE_MUTED": [
             "#3a3a3a"
@@ -37,7 +37,7 @@
             "#06000A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#171717"
+            "270a1f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#06000A"
@@ -58,10 +58,10 @@
             "#06000A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#171717"
+            "#270a1f"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#171717"
+            "#270a1f"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#464646"
