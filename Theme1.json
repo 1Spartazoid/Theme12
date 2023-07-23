@@ -1,6 +1,6 @@
 { 
-    "name": "Orion",
-    "description": "My first attempt at making a propper theme for Vendetta (made by Felix)",
+    "name": "Pixel",
+    "description": "Pixel City",
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
@@ -85,7 +85,7 @@
   },
   "background": {
     "blur": 0.3,
-    "url": "https://i.pinimg.com/originals/ba/b6/08/bab6083d2b470bf80d99ac49c2b331a5.gif",
+    "url": "https://raw.githubusercontent.com/1Spartazoid/Theme12/main/22.gif",
     "alpha": 0.7
     
   }
