@@ -1,12 +1,6 @@
 { 
     "name": "Orion",
     "description": "My first attempt at making a propper theme for Vendetta (made by Felix)",
-   "authors": [
-     {
-       "name": "Felix Svetloozerskiy",
-       "id": "354936587186077707"
-     }
-   ],
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
