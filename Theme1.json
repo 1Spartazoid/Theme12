@@ -9,7 +9,7 @@
         ],
         "HEADER_SECONDARY": [
           
-          "#d81418"
+          "#b8002e"
         ],
         "TEXT_NORMAL": [
           
@@ -28,7 +28,7 @@
           "#c5c118"
           ],
           "INTERACTIVE_ACTIVE": [
-            "#4f0014"
+            "#850021"
         ],
         "INTERACTIVE_MUTED": [
             "#3a3a3a"
@@ -55,7 +55,7 @@
             "#25003d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#25003d"
+            "#430070"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#270a1f"
